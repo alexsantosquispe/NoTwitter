@@ -1,5 +1,7 @@
 # NoTwitter
 
+![alt text](https://raw.githubusercontent.com/alexsantosquispe/NoTwitter/main/Screenshots/Screenshot_20210325-200912.png) | ![alt text](https://raw.githubusercontent.com/alexsantosquispe/NoTwitter/main/Screenshots/Screenshot_20210325-200921.png) |
+
 ## Installation
 
 ```bash
