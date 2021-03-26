@@ -1,0 +1,5 @@
+export const baseUrl = 'https://fake-twitter-api-w5dmexv5jq-uc.a.run.app'
+export const userTweets = '/api/statuses/user_timeline'
+export const user = '/api/user'
+export const searchHashTags = '/api/search/'
+export const tweet = '/api/statuses/update?status='

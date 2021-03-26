@@ -1,0 +1,5 @@
+export const NEW_TWEET = 'New Tweet'
+export const PROFILE = 'Profile'
+export const SEARCH = 'Search'
+export const TWEET_DETAIL = 'Tweet'
+export const TWITTER = 'Twitter'
